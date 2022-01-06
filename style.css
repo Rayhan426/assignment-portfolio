@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 8%;
+    
+}
+.mission-2022{
+    color: orangered;
+    font-family: 'Lobster', cursive;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    
+}.stay-focus{
+    font-weight: 900;
+    font-weight: bold;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 75%;
+    padding-left: 5%;
+   
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, rgba(1, 211, 211, 0.904));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    
+}
+.heading-allign{
+    text-align: center;
+}
