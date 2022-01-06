@@ -26,11 +26,12 @@ h1{
     
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(rgb(255, 206, 71), rgb(255, 72, 0));
-    padding: 10px 40px;
-    border-radius: 5px;
-    color: rgb(255, 255, 255);
-    font-weight: bold;
+        background-image: linear-gradient(rgba(255, 0, 0, 0.746), rgb(255, 182, 45));
+        padding: 10px;
+        border-radius: 7px;
+        color: white;
+        font-weight: bold;
+    }
     
 }
 .heading-allign{
@@ -107,7 +108,7 @@ h1{
     }
     .last-button{
         text-decoration: none;
-        background-image: linear-gradient(rgba(255, 156, 75, 0.746), rgb(248, 61, 61));
+        background-image: linear-gradient(rgba(255, 0, 0, 0.746), rgb(255, 182, 45));
         padding: 10px;
         border-radius: 7px;
         color: white;
