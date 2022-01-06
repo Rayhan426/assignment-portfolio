@@ -1,7 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin-left: 5%;
-    margin-right: 5%;
+    
     
 }
 .mission-2022{
@@ -20,6 +19,8 @@ h1{
 .flexible-container{
     display: flex;
     margin-bottom: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
     
 .link-button{
@@ -115,6 +116,7 @@ h1{
        text-align: center;
        background-color: tomato;
        padding: 10px;
+       mar
       
    }
    .mission-2021{
