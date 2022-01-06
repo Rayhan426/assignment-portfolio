@@ -32,18 +32,15 @@ h1{
         color: white;
         font-weight: bold;
     }
-    
-}
-.heading-allign{
-    text-align: center;
-    color: tomato;
-}
-.span-mission{
-    color: rgb(49, 173, 255);
-}
-.experience-area{
-    
-}
+    .heading-allign{
+        text-align: center;
+        color: rgb(255, 60, 0);
+    }
+    .span-mission{
+        color: rgb(0, 111, 175);
+    }
+
+
 .experience-item{
     width: 40%;
     margin-left: 5%;
@@ -106,6 +103,14 @@ h1{
     .text-global{
         text-align: justify
     }
+    .build-process{
+        
+        margin-left: 5%;
+        color: tomato;
+    }
+    .process{
+        color: rgb(0, 0, 47);
+    }
     .last-button{
         text-decoration: none;
         background-image: linear-gradient(rgba(255, 0, 0, 0.746), rgb(255, 182, 45));
@@ -134,3 +139,4 @@ h1{
    .orange{
        color: orangered;
    }
+   
