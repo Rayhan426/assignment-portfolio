@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
     
     
 }
@@ -76,11 +77,11 @@ h1{
         width: 50%;  
     }
     .half-width{
-        width: 50%;
+        width: 60%;
         padding-left: 5px;
     }
     .half-width img{
-        width: 55%;
+        width: 60%;
     }
     .text-allign{
         text-align: justify;
@@ -106,7 +107,7 @@ h1{
     }
     .last-button{
         text-decoration: none;
-        background-image: linear-gradient(rgba(255, 156, 75, 0.746), rgb(129, 32, 255));
+        background-image: linear-gradient(rgba(255, 156, 75, 0.746), rgb(248, 61, 61));
         padding: 10px;
         border-radius: 7px;
         color: white;
@@ -114,13 +115,21 @@ h1{
     }
    footer{
        text-align: center;
-       background-color: tomato;
+       background-color: rgb(0, 6, 58);
        padding: 10px;
-       mar
+       color: white;
+       margin-bottom: 20px;
       
    }
    .mission-2021{
        font-family: 'Courier New', Courier, monospace;
        font-weight: bold;
-      
+       color: rgb(251, 255, 0);
+       font-size: 35px;
+        }
+   .mission{
+       color: rgb(255, 255, 255);
+   }
+   .orange{
+       color: orangered;
    }
