@@ -18,15 +18,9 @@ h1{
 }
 .flexible-container{
     display: flex;
+    margin-bottom: 100px;
 }
-.half-width{
-    width: 75%;
-    padding-left: 5%;
-   
-}
-.half-width img{
-    width: 60%;
-}
+    
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(rgb(255, 206, 71), rgb(255, 72, 0));
