@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin-left: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
     
 }
 .mission-2022{
@@ -28,13 +29,54 @@ h1{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(blue, rgba(1, 211, 211, 0.904));
+    background-image: linear-gradient(rgb(255, 206, 71), rgb(255, 72, 0));
     padding: 10px 40px;
     border-radius: 5px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-weight: bold;
     
 }
 .heading-allign{
     text-align: center;
+    color: tomato;
 }
+.span-mission{
+    color: rgb(49, 173, 255);
+}
+.experience-area{
+    
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    background-image: linear-gradient( rgb(198, 248, 248), rgb(193, 193, 255))
+    
+}
+.box-color{
+    background-image: linear-gradient(rgb(231, 203, 198), rgb(252, 202, 211));
+}
+.first-box-color{
+    background-image: linear-gradient(rgb(255, 226, 226), rgb(250, 228, 187));
+}
+#border-left-color{
+    border-left: 7px solid;
+     border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;}
+    #border-color{
+        border-left: 7px solid;
+        border-image: linear-gradient( rgb(248, 122, 143), rgb(255, 51, 0));
+        border-image-slice: 1;
+    }
+    #border-first{
+        border-left: 7px solid;
+        border-image: linear-gradient( green, red);
+        border-image-slice: 1;
+    }
+    img{
+        width: 50%;  
+    }
+    
